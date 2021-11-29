@@ -2,6 +2,9 @@
 #Patricio Ruiz Leal
 #a01721996 ing robotica 
 
+#Rodrigo Reyes
+#a01284917 ITC
+
 
 (dark teletubi.jfif)
 
