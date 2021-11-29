@@ -6,7 +6,7 @@
 # a01284917 ITC
 
 
-![alt text](dark_teletubi.jfif)
+![alt text](dark teletubi.jfif)
 
 term
 : deffinition
