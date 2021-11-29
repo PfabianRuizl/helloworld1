@@ -1,6 +1,6 @@
 # helloworld1
-#Patricio Ruiz Leal
-#a01721996 ing robotica 
+# Patricio Ruiz Leal
+# a01721996 ing robotica 
 
 #Rodrigo Reyes
 #a01284917 ITC
