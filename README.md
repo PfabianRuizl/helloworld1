@@ -6,7 +6,7 @@
 # a01284917 ITC
 
 
-![alt text](dark teletubi.jfif)
+![alt text](dark_teletubi.jfif)
 
 term
 : deffinition
@@ -26,7 +26,7 @@ term
 | Heather | Title |
 | Parograph | Text |
 
-''' c++
+```c++
 #include<iostream>
 #include<math.h>
 using namespace std;
@@ -57,11 +57,4 @@ int main(){
   }
 
 
-'''
-    
-
-
-
-
-
-
+```
