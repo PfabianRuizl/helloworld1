@@ -1,1 +1,26 @@
 # helloworld1
+#Patricio Ruiz Leal
+#a01721996 ing robotica 
+
+
+(dark teletubi.jfif)
+
+
+
+-item1
+-item2
+-item3
+
+
+1. item1
+2. item2
+3. item3
+
+
+
+
+
+
+
+
+
