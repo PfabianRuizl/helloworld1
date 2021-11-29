@@ -17,14 +17,14 @@
 3. item3
 
 
-|
+| Heather | Title |
+| Parograph | Text |
 
 ''' c++
 #include<iostream>
 #include<math.h>
 using namespace std;
 int main(){
-
 
   char cha = 'S' ;
   int num1= 0;
